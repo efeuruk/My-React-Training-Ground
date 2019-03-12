@@ -1,6 +1,14 @@
 # My-React-Training-Ground
 I am going to use this repository while learning more about React.js.
 
+# Current technologies that I used in this project
+Context Api
+json-server
+axios
+react router
+react lifecycle methods
+pose
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
@@ -11,6 +19,14 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### `npm install -g json-server`
+Also you have to install the json-server to get users with fake rest api
+
+### `json-server --watch api/db.json --port 3004`
+Open [http://localhost:3004](http://localhost:3004) to view it in the browser.
+
+json-server can be installed 
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
