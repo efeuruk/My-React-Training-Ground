@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "unique-1",
+      "name": "Ersoy Efe Uruk",
+      "salary": "5000",
+      "department": "Software"
+    },
+    {
+      "name": "Figen Sayılı",
+      "department": "Industry",
+      "salary": "5000",
+      "id": "V8wYk6Y"
+    },
+    {
+      "name": "Tarkan Kasabalı",
+      "department": "Marketing",
+      "salary": "3000",
+      "id": "JyF82gb"
+    },
+    {
+      "name": "Betül Şimşek",
+      "salary": "5000",
+      "department": "Industry",
+      "id": "mDYdMjG"
+    }
+  ]
+}
