@@ -2,12 +2,12 @@
 I am going to use this repository while learning more about React.js.
 
 # Current technologies that I used in this project
-Context Api
-json-server
-axios
-react router
-react lifecycle methods
-pose
+Context Api<br>
+json-server<br>
+axios<br>
+react router<br>
+react lifecycle methods<br>
+pose<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
